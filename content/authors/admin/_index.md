@@ -39,9 +39,6 @@ education:
   - course: Bachelor's degree in Development Economics
     institution: University Clermont Auvergne, CERDI, CNRS, France
     year: 2017 - 2018 
-  - course: Classe Préparatoire aux Grandes Écoles (CPGE) ENS Paris-Saclay Economics
-    institution: University Paris 1 Panthéon Sorbonne, Lycée Turgot, France 
-    year: 2015 - 2017 
 
 
 # Social/Academic Networking
@@ -55,9 +52,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adrien-gosselin-pali-006387121/
-  - icon: researchgate
-  icon_pack: ai 
-  link: https://www.researchgate.net/profile/Adrien_Gosselin_Pali
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,7 +70,3 @@ user_groups:
 ---
 
 I am a PhD student in Economics at University Clermont Auvergne, CERDI, CNRS, France. I study the nutrition issues in developing countries and more precisely what is called the double burden of malnutrition. 
-
-À remplir 
-
-À remplir 
